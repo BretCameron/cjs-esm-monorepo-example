@@ -1,0 +1,13 @@
+{
+  "name": "cjs-esm-monorepo-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build:packages": "yarn --cwd packages/utils build"
+  }
+}
