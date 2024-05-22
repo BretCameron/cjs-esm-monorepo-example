@@ -1,4 +1,4 @@
-#  ESM and CJS Support in TypeScript Library
+#  ESM and CJS Support - Monorepo Example
 
 This project demonstrates how to support both ESM and CJS in a TypeScript library.
 
